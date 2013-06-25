@@ -35,7 +35,7 @@ Sample Code / Queries
 
 The minimalist elastic search code needed is as follows:
 
-.. code: python
+.. code:: python
 
    from pyelasticsearch import ElasticSearch
 
@@ -45,7 +45,7 @@ The minimalist elastic search code needed is as follows:
 
 Some useful query containers we've figured out so far
 
-.. code: python
+.. code:: python
 
    all_the_jobs = {
     "query": {
